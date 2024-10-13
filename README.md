@@ -1,0 +1,2 @@
+# pythonnnn
+perkenalan diri
