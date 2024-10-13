@@ -1,0 +1,7 @@
+print("nama: saya arya apriawan")
+print("nim: 22415027")
+print("asalsekolah: sma n 1 sawa")
+print("lahir: kokapi 16-04-2006")
+print("saya berasal dari: desa  pudonggala utama, kec,sawa,kab konawe utara")
+print("pekerjaan: mahasiswa")
+print("hobi: bermain bola")
